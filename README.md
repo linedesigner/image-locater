@@ -1,4 +1,4 @@
-# image-locater
+# image-locator
 3ds max programı için derlediğim script. 
 Yükleme talimatları ve açıklama için lütfen : https://www.youtube.com/watch?v=KA9b3PEjOvM adresini ziyaret ediniz.
 Şu an için 3dsmax 2016-2022 programları arasında denenmiş ve sorunsuz çalışmaktadır.
